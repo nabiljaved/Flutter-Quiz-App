@@ -7,4 +7,4 @@ If you have any query please contact at nabeeljaved2029@gmail.com
 
 ## Screenshot
 
-![UI](/screenshots/1.png)
+![UI](/screenshots/1.jpg)
