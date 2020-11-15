@@ -1,4 +1,4 @@
-# Flutter SQFLITE
+# Flutter QUIZAPP
 This is follow up course Flutter & Dart the complete guide 2020 by Maximilian Schwarzmüller
 
 # Ask a question please contact?
