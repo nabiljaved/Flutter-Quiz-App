@@ -1,16 +1,10 @@
-# quiz_app
+# Flutter SQFLITE
+This is follow up course Flutter & Dart the complete guide 2020 by Maximilian Schwarzmüller
 
-A new Flutter project.
+# Ask a question please contact?
 
-## Getting Started
+If you have any query please contact at nabeeljaved2029@gmail.com
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI](/screenshots/1.png)
